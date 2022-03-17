@@ -9,7 +9,7 @@ const bot = new Discord.Client({
 });
 
 const activities_list = [
-    "Coded By IccY#2265", 
+    "Coded By 𝐀𝖇𝓷𝟈𝓻", 
     "Ticket Bot",
     "Use ?help",
     ]; 
